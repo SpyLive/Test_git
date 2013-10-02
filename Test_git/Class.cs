@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Test_git
 {
-    public class Class1
+    public class Class
     {
 
     }
